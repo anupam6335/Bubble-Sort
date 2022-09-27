@@ -1,4 +1,4 @@
-# Sorting Visualization
+# Sorting Visualization (https://anupam6335.github.io/Bubble-Sort/)
 
 ### This is a simple visualization project made using javascript 
 

@@ -13,13 +13,13 @@
     --> Size upto 250 number
     --> New Array Generation of new data (Randomly generate new data)
 
-3)  Colored representation of step being executed
+2)  Colored representation of step being executed
     --> Yellow Default 🟡
     --> Blue Compared 🔵
     --> Red Identified as in incorrect position and to be moved 🔴
     --> Green Correct position 🟢
     
-2) Time and Space complexity of algorithm being visualized.
+3) Time and Space complexity of algorithm being visualized.
 
 ### This is built using HTML, CSS, JavaScript 
 
